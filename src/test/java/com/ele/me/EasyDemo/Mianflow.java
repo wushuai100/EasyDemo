@@ -69,7 +69,7 @@ public class Mianflow {
         Thread.sleep(3000);
         driver.findElement(By.xpath("//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]")).sendKeys("914425948@qq.com");
         Thread.sleep(3000);
-        driver.findElement(By.xpath("//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[3]/android.widget.EditText[1]")).sendKeys("saohao4544312");
+        driver.findElement(By.xpath("//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[3]/android.widget.EditText[1]")).sendKeys("xxxxxx");
         Thread.sleep(3000);
         driver.findElement(By.xpath("//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.Button[1]")).click();
         Thread.sleep(3000);
@@ -83,7 +83,7 @@ public class Mianflow {
         driver.findElement(By.xpath("//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.TableRow[1]/android.widget.LinearLayout[2]/android.widget.EditText[1]")).sendKeys("python");
         Thread.sleep(3000);
         driver.findElement(By.xpath("//android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.RelativeLayout[4]/android.widget.RelativeLayout[1]/android.widget.TextView[1]")).click();
-        Thread.sleep(3000);
+       
        
 //        driver.findElementByAccessibilityId("立即登录").click();
 //        Thread.sleep(5000);
